@@ -1,0 +1,50 @@
+h2 {
+    color:brown;
+    background-color: burlywood;
+}
+
+
+
+  p1{
+      color:red;
+      background-color: burlywood;
+      font-size: 30px;
+  }
+
+  p2{
+    color:chocolate;
+    background-color:cornflowerblue;
+    font-size: 30px;
+}
+
+p3{
+    color:darkblue;
+    background-color:darkgrey;
+    font-size: 30px;
+}
+p4{
+    color:darkslateblue;
+    background-color:indianred;
+    font-size: 30px;
+}
+
+div{
+    style="width:1500px;
+    height:800px
+}
+
+
+header nav ul li {
+    display: inline-block;
+    height:20px;
+    width:100px;
+    font-size:large;
+    padding-right: 30px;
+  }
+header nav ul li a{
+    color:salmon
+}
+
+h1{
+    color:brown;
+}
